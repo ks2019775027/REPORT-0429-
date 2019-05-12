@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>가상 컴퓨터 견적</title>
+</head>
+<body>
+	<font size="6">
+	가상 컴퓨터 견적</font><br><br>
+		<p><font size="5">1. 게임용 컴퓨터(배틀 그라운드 및 오버워치)</font></p>
+	</tr>
+		<p><font size="5">2. 컴퓨터 각 부품 기능, 가격, 선정 이유</font></p>
+		<p>&nbsp;[CPU] : AMD 라이젠 5 2600X <font color="blue">260,480</font></p>
+			<p>	-선정 이유 : 3.６GHz의　베이스　클럭과　4.2GHz의　부스트　클럭， 멀티태스킹　가능</p>
+			<p>&nbsp;[Mainboard] : ASRock B450M-HDV R4.0 에즈윈 <font color="blue">85,610</font> </p>
+			<p>	-선정 이유 :　솔리드　캐패시터와　알루미늄　코어　전원부를　적용하여　발열　내구성이　높고　수명　증가</p>
+			<p>&nbsp;[Memory] : 삼성전자 DDR4 8G PC4-21300 x2 <font color="blue">104,060</font></p>
+			<p>	-선정 이유 : 고사양이 요구 될 떄 부족하지 않게 넉넉하게 구비</p>
+			<p>&nbsp;[Graphic Card] : MSI 지포스 RTX 2060 벤투스 OC D6 6GB <font color="blue">464,280</font> </p>
+			<p>	-선정 이유 :　신규　시각　효과　 및　렌더링　기술로　더욱　사실적인　게이밍　가능</p>
+			<p>[SSD] : 삼성전자 860 EVO (250GB) <font color="blue">69,500</font></p>
+			<p>	-선정 이유 : 기존　HDD　대비　４배　이상　월등히　빠른　읽기／쓰기　속도의　장점</p>
+			<p>[Case] : ABKO SUITMASTER 361G 칼리스토 강화유리 DOUBLING <font color="blue">69,500</font></p>
+			<p>	-선정 이유 : 시스템　구성을　실시간으로　확인　가능하며　전면　메쉬디자인으로　바람까지　통하여　외부　찬공기를　빠르게　흡수하여　안정적인　컴퓨터　환경　제공</p>
+			<p>[Power] : 쿨러마스터 MasterWatt Lite 700 80PLUS Standard 230V EU <font color="blue">66,000</font></p>
+			<p>	-선정 이유 :　유체　베어링　사용으로　저가형　팬에　비해　높은　정숙성과　강한　내충격성，낮은　진동，팬　수명　증가</p>
+			<p>[Cooler] :  Trinity white LED  <font color="blue">40,000 </font> </p>
+			<p>	-선정 이유 : 저소음, 준수한 성능 및 케이스 안을 비춰줄 하얀 색상의 LED</p>
+			<p><font size="5">3. 호환성 테스트</font></p>
+			<img src="image03.bmp" alt="호환성테스트">
+			<p><font size="5">4. 조립 후기</font></p>
+			<p>항상　조립된　컴퓨터를　사용하다보니　하드웨어에　관심이　없었는데　직접　목적에　맞춰　견적을　짜보고　호환성도　체크해보니　나중에　살　때도　도움될　것　같다．</p>
+			<p><font size="5">5. 컴퓨터 조립 추천 사이트와 이유</font></p>
+			<p>다나와는　대중들에게　가장　널리　알려져있기도　하며　컴퓨터　사는　목적에　따라　추천　부품들이　나와서 처음　맞추는　사람들도　쉽게　맞출　수　있다．</p>
+			<li><a href="http://www.danawa.com">다나와</a></li>
+			<p><font size="5">6.출처</font></p>
+			<li><a href="http://blog.naver.com/PostView.nhn?blogId=all_in_box&logNo=221493165815&categoryNo=15&parentCategoryNo=&from=thumbnailList">출처</a></li>
